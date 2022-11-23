@@ -1,12 +1,8 @@
-﻿namespace Access_modifiers__DLL__NameSpace
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Admin admin = new Admin(true, "Full-Stack", "", "");
+
+using Admin_User_task;
+
+Admin admin = new Admin(true, "Full-Stack", "", "");
 
             admin.Info();
-        }
-    }
-}
+        
+  
