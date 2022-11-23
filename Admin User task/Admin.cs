@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Admin_User_task
 {
-    internal class Admin
+    internal class Admin:User
     {
         public bool IsSuperAdmin;
         public string Section;

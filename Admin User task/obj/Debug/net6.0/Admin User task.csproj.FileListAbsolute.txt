@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Admin User task\Admin User task\obj\Debug\net6.0\Admin User task.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Admin User task\Admin User task\obj\Debug\net6.0\Admin User task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Admin User task\Admin User task\obj\Debug\net6.0\Admin User task.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Admin User task\Admin User task\obj\Debug\net6.0\Admin User task.AssemblyInfo.cs
+C:\Users\User\source\repos\Admin User task\Admin User task\obj\Debug\net6.0\Admin User task.csproj.CoreCompileInputs.cache
